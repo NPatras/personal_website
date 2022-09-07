@@ -48,7 +48,7 @@ const Contact = () => {
             />
           </h1>
           <p>
-            I am interested in.... . However, if you have other request or
+            If you have other request or
             question, do not hesitate to contact me using below form either.
           </p>
           <div className="contact-form">

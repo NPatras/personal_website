@@ -32,8 +32,8 @@ const About = () => {
             />
           </h1>
           <p> 
-            I'm a visionary thinkier, the evangelist of decentralized economy
-            and the supported of the zero-marginal-cost society
+           I'm a visionary thinker, the evangelist of a decentralized economy, 
+           and the supporter of a zero-marginal-cost society.
           </p>
           <p>
             Also, I'm a sustainability professional, adept at enhancing resource
